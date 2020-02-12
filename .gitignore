@@ -58,3 +58,8 @@ sysinfo.txt
 # Crashlytics generated file
 crashlytics-build.properties
 
+# Extra ignores
+SimonSays/Library
+SimonSays/Temp
+SimonSays/ProjectSettings
+.idea
